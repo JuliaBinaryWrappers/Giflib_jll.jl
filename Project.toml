@@ -1,0 +1,10 @@
+name = "Giflib_jll"
+uuid = "59f7168a-df46-5410-90c8-f2779963d0ec"
+version = "5.1.4+0"
+
+[deps]
+Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
+Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
+
+[compat]
+julia = "1.3"
