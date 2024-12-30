@@ -5,25 +5,25 @@ os = "macos"
 
     [[Giflib.download]]
     sha256 = "d5d1ce822c5502c44079eb8d85b525d0a42fb7c6d7a71abb92ed5f495423fc25"
-    url = "https://github.com/JuliaBinaryWrappers/Giflib_jll.jl/releases/download/Giflib-v5.2.2+1/Giflib.v5.2.2.aarch64-apple-darwin.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/Giflib_jll.jl/releases/download/Giflib-v5.2.3+0/Giflib.v5.2.3.aarch64-apple-darwin.tar.gz"
 [[Giflib]]
 arch = "aarch64"
-git-tree-sha1 = "d66090a41cd319177c28afde3116244e9884aa3a"
+git-tree-sha1 = "2c3e0aac7e02bf1e7657b681f655e291a6050017"
 libc = "glibc"
 os = "linux"
 
     [[Giflib.download]]
-    sha256 = "9bc05b6d28e81b1f1302982233da9282377b275410a1f0bccaa0399292ed74a1"
-    url = "https://github.com/JuliaBinaryWrappers/Giflib_jll.jl/releases/download/Giflib-v5.2.2+1/Giflib.v5.2.2.aarch64-linux-gnu.tar.gz"
+    sha256 = "8d9fbb0930fc04010140863346371a98dd3fa3b03e9ada61ada7cde13008e392"
+    url = "https://github.com/JuliaBinaryWrappers/Giflib_jll.jl/releases/download/Giflib-v5.2.3+0/Giflib.v5.2.3.aarch64-linux-gnu.tar.gz"
 [[Giflib]]
 arch = "aarch64"
-git-tree-sha1 = "db391268f0107be5abad8bac5533762d3837ed1b"
+git-tree-sha1 = "2ba7317ef18d512488e50955e5d82c1978af03e3"
 libc = "musl"
 os = "linux"
 
     [[Giflib.download]]
-    sha256 = "3c30c752a3d6cc106dfc8ea9eb9fa4e9e02f377cdf964d795c68a9b3c2be4abb"
-    url = "https://github.com/JuliaBinaryWrappers/Giflib_jll.jl/releases/download/Giflib-v5.2.2+1/Giflib.v5.2.2.aarch64-linux-musl.tar.gz"
+    sha256 = "7e3ea412e0393df09fb59f025e7d5f8307525bf6b2c403f8164078bad11645a1"
+    url = "https://github.com/JuliaBinaryWrappers/Giflib_jll.jl/releases/download/Giflib-v5.2.3+0/Giflib.v5.2.3.aarch64-linux-musl.tar.gz"
 [[Giflib]]
 arch = "aarch64"
 git-tree-sha1 = "d101761a35589a0889e6c79bb1c6c9fb3b355514"
@@ -31,82 +31,82 @@ os = "freebsd"
 
     [[Giflib.download]]
     sha256 = "78a1237cca5fd69e685148c4b7299851941f1c04db012ac35e0d4cb780176b03"
-    url = "https://github.com/JuliaBinaryWrappers/Giflib_jll.jl/releases/download/Giflib-v5.2.2+1/Giflib.v5.2.2.aarch64-unknown-freebsd.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/Giflib_jll.jl/releases/download/Giflib-v5.2.3+0/Giflib.v5.2.3.aarch64-unknown-freebsd.tar.gz"
 [[Giflib]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "5ec6b2dd18361933221fee3406108285e25df632"
+git-tree-sha1 = "413fd9b2d48efb393d2b3356200f444238306460"
 libc = "glibc"
 os = "linux"
 
     [[Giflib.download]]
-    sha256 = "340a22a78f6a4001e0fea13f97e671621665397731cd78f8ef8a39174827c92a"
-    url = "https://github.com/JuliaBinaryWrappers/Giflib_jll.jl/releases/download/Giflib-v5.2.2+1/Giflib.v5.2.2.armv6l-linux-gnueabihf.tar.gz"
+    sha256 = "77cfb46f80f543f7c3f6e728e5a777f0bd305353c9dd97e74108c9abf66e79ac"
+    url = "https://github.com/JuliaBinaryWrappers/Giflib_jll.jl/releases/download/Giflib-v5.2.3+0/Giflib.v5.2.3.armv6l-linux-gnueabihf.tar.gz"
 [[Giflib]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "a4b0e60b4acc1e630955e81b5f8e6df119acd4bb"
+git-tree-sha1 = "f57662ee5ac53c721989341f8fc47423b183a9e7"
 libc = "musl"
 os = "linux"
 
     [[Giflib.download]]
-    sha256 = "52dfc8c0885502672162b564a9258b4d3e40a443f7ac14d07af8c0cb2805cb1b"
-    url = "https://github.com/JuliaBinaryWrappers/Giflib_jll.jl/releases/download/Giflib-v5.2.2+1/Giflib.v5.2.2.armv6l-linux-musleabihf.tar.gz"
+    sha256 = "b54f0347ddc3b80d40a96eb5a389badda51b2036fe513e1a80d06c85e3b4bc64"
+    url = "https://github.com/JuliaBinaryWrappers/Giflib_jll.jl/releases/download/Giflib-v5.2.3+0/Giflib.v5.2.3.armv6l-linux-musleabihf.tar.gz"
 [[Giflib]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "e82152feb2d5a37b932c3de574d5d95b295a1985"
+git-tree-sha1 = "d5d8f9972d72fa3a4d4f57ff6ee9aa64c63e7e1a"
 libc = "glibc"
 os = "linux"
 
     [[Giflib.download]]
-    sha256 = "3a96c347192ff4f7bb5b3b4e8f7a259e52ef8a30df42a72e73bd06d343676d7f"
-    url = "https://github.com/JuliaBinaryWrappers/Giflib_jll.jl/releases/download/Giflib-v5.2.2+1/Giflib.v5.2.2.armv7l-linux-gnueabihf.tar.gz"
+    sha256 = "2a442d2eabe2b056dafa86e9e87a88a40c95a493b79e83e62a304f8b2a46c50b"
+    url = "https://github.com/JuliaBinaryWrappers/Giflib_jll.jl/releases/download/Giflib-v5.2.3+0/Giflib.v5.2.3.armv7l-linux-gnueabihf.tar.gz"
 [[Giflib]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "739b4baf18f8cf9a0f75a116b2c4c0792a91e3bc"
+git-tree-sha1 = "ed64f93e6fe06998486a52e9de41265215f17dd9"
 libc = "musl"
 os = "linux"
 
     [[Giflib.download]]
-    sha256 = "7b03a4f1cb13c03a2bf79b9834219a014367a7872d01fa16e1b858b0c0d67465"
-    url = "https://github.com/JuliaBinaryWrappers/Giflib_jll.jl/releases/download/Giflib-v5.2.2+1/Giflib.v5.2.2.armv7l-linux-musleabihf.tar.gz"
+    sha256 = "4b447e3f27cacd18026dc1a1839ad91717feefb912a02210413f7378f9ed8a67"
+    url = "https://github.com/JuliaBinaryWrappers/Giflib_jll.jl/releases/download/Giflib-v5.2.3+0/Giflib.v5.2.3.armv7l-linux-musleabihf.tar.gz"
 [[Giflib]]
 arch = "i686"
-git-tree-sha1 = "9bfbfe42588fc1664338d1bd83cf7f162881a164"
+git-tree-sha1 = "1fba0e1d4b4004679821ca75a8c4f2273a0a7afb"
 libc = "glibc"
 os = "linux"
 
     [[Giflib.download]]
-    sha256 = "95c1f1ad9ff1c66ec27f7a1e3b3d1cb7b65078a0e4c6df270a52b8c8a3b7ce24"
-    url = "https://github.com/JuliaBinaryWrappers/Giflib_jll.jl/releases/download/Giflib-v5.2.2+1/Giflib.v5.2.2.i686-linux-gnu.tar.gz"
+    sha256 = "d9a00f0d0e96349219d17171c4c8ee1e83b65a1c776e7b0dc25f544c62724e72"
+    url = "https://github.com/JuliaBinaryWrappers/Giflib_jll.jl/releases/download/Giflib-v5.2.3+0/Giflib.v5.2.3.i686-linux-gnu.tar.gz"
 [[Giflib]]
 arch = "i686"
-git-tree-sha1 = "76a479147e6304a5d090d350fee71e8266fe6840"
+git-tree-sha1 = "a950b9cf50c17876e068e10add3c27893e1afb73"
 libc = "musl"
 os = "linux"
 
     [[Giflib.download]]
-    sha256 = "aa5175fb7e4e9a6c87e12ff6775c12c33153bb9975cb059a351861d51840e797"
-    url = "https://github.com/JuliaBinaryWrappers/Giflib_jll.jl/releases/download/Giflib-v5.2.2+1/Giflib.v5.2.2.i686-linux-musl.tar.gz"
+    sha256 = "f7ed6454b39f56f23f70466c6c381b31c3f9ffb9082be641125df338cb76a4f9"
+    url = "https://github.com/JuliaBinaryWrappers/Giflib_jll.jl/releases/download/Giflib-v5.2.3+0/Giflib.v5.2.3.i686-linux-musl.tar.gz"
 [[Giflib]]
 arch = "i686"
-git-tree-sha1 = "01ef817345fbba0724626980f72e9a9407861bc0"
+git-tree-sha1 = "e565d622ea55cfe0f73c90f455e3637e53388342"
 os = "windows"
 
     [[Giflib.download]]
-    sha256 = "7241d015752fae41f7aabdadc742e3b98880c31aa6f930f83d22a65c58cf7472"
-    url = "https://github.com/JuliaBinaryWrappers/Giflib_jll.jl/releases/download/Giflib-v5.2.2+1/Giflib.v5.2.2.i686-w64-mingw32.tar.gz"
+    sha256 = "a4503bb8de0419955bc7316273c31eb55f7ab43c71808eef1892ffb871b5f6bd"
+    url = "https://github.com/JuliaBinaryWrappers/Giflib_jll.jl/releases/download/Giflib-v5.2.3+0/Giflib.v5.2.3.i686-w64-mingw32.tar.gz"
 [[Giflib]]
 arch = "powerpc64le"
-git-tree-sha1 = "e9d56a022913846b0c8123a6f8d7ef5f5f9f3cd3"
+git-tree-sha1 = "92474db99a3df539be2b0470531830edc96d41ee"
 libc = "glibc"
 os = "linux"
 
     [[Giflib.download]]
-    sha256 = "56b0cf78636fd91295459797ba69d73dda4d82df230edde300f28aa55d306cf0"
-    url = "https://github.com/JuliaBinaryWrappers/Giflib_jll.jl/releases/download/Giflib-v5.2.2+1/Giflib.v5.2.2.powerpc64le-linux-gnu.tar.gz"
+    sha256 = "ba762b0bbc62ad1423062939d4c9318a16da95cf7997c81c691c77288d4f724d"
+    url = "https://github.com/JuliaBinaryWrappers/Giflib_jll.jl/releases/download/Giflib-v5.2.3+0/Giflib.v5.2.3.powerpc64le-linux-gnu.tar.gz"
 [[Giflib]]
 arch = "riscv64"
 git-tree-sha1 = "daf19b016ef541d3841cf5818c946d11dc55b330"
@@ -115,7 +115,7 @@ os = "linux"
 
     [[Giflib.download]]
     sha256 = "1db8231cf55c26b9943bc07a29ec4d23aaa5cfe5ce73ed4785cf54c891115085"
-    url = "https://github.com/JuliaBinaryWrappers/Giflib_jll.jl/releases/download/Giflib-v5.2.2+1/Giflib.v5.2.2.riscv64-linux-gnu.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/Giflib_jll.jl/releases/download/Giflib-v5.2.3+0/Giflib.v5.2.3.riscv64-linux-gnu.tar.gz"
 [[Giflib]]
 arch = "x86_64"
 git-tree-sha1 = "cecd4717c7ac8b9af6cfc0256112d72be6deef85"
@@ -123,25 +123,25 @@ os = "macos"
 
     [[Giflib.download]]
     sha256 = "3288b05fdf1e286035527370e4eb8571cd1b46f4941462615e61a91220261d44"
-    url = "https://github.com/JuliaBinaryWrappers/Giflib_jll.jl/releases/download/Giflib-v5.2.2+1/Giflib.v5.2.2.x86_64-apple-darwin.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/Giflib_jll.jl/releases/download/Giflib-v5.2.3+0/Giflib.v5.2.3.x86_64-apple-darwin.tar.gz"
 [[Giflib]]
 arch = "x86_64"
-git-tree-sha1 = "d082623fe7ef2d2cd4fc23cba098ce46af11fd07"
+git-tree-sha1 = "e9c28d56d98314cf3adffc7c94416d103cb98feb"
 libc = "glibc"
 os = "linux"
 
     [[Giflib.download]]
-    sha256 = "14ed5286f959d9062d54b2ea4a4337983478f577c73a214cac32cb68c396d060"
-    url = "https://github.com/JuliaBinaryWrappers/Giflib_jll.jl/releases/download/Giflib-v5.2.2+1/Giflib.v5.2.2.x86_64-linux-gnu.tar.gz"
+    sha256 = "3b8acb3977f3b93415454ca3c090e033b2837780094aeba4eadfffc07f58160c"
+    url = "https://github.com/JuliaBinaryWrappers/Giflib_jll.jl/releases/download/Giflib-v5.2.3+0/Giflib.v5.2.3.x86_64-linux-gnu.tar.gz"
 [[Giflib]]
 arch = "x86_64"
-git-tree-sha1 = "2e42e1f658573a00c3c6198257c6dc73c464a53f"
+git-tree-sha1 = "f3e7d37e74313b36cdb5de76ea74b4a60bf14448"
 libc = "musl"
 os = "linux"
 
     [[Giflib.download]]
-    sha256 = "e5fd59084723da577c9242c2a22e78682cc1b9d20d458af6df6624be2fb396a6"
-    url = "https://github.com/JuliaBinaryWrappers/Giflib_jll.jl/releases/download/Giflib-v5.2.2+1/Giflib.v5.2.2.x86_64-linux-musl.tar.gz"
+    sha256 = "542d05c50d9f8355b6983c04a34b78e602dd1451253a428f4652a9ad4e6bb8f0"
+    url = "https://github.com/JuliaBinaryWrappers/Giflib_jll.jl/releases/download/Giflib-v5.2.3+0/Giflib.v5.2.3.x86_64-linux-musl.tar.gz"
 [[Giflib]]
 arch = "x86_64"
 git-tree-sha1 = "f07fda06241d8b8238c6d4fc9dcead0ea7d045e5"
@@ -149,12 +149,12 @@ os = "freebsd"
 
     [[Giflib.download]]
     sha256 = "d5dda3f60367577ad5d83651fecc1fc89cd71a9c4a11beada6a61aae0aa9c890"
-    url = "https://github.com/JuliaBinaryWrappers/Giflib_jll.jl/releases/download/Giflib-v5.2.2+1/Giflib.v5.2.2.x86_64-unknown-freebsd.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/Giflib_jll.jl/releases/download/Giflib-v5.2.3+0/Giflib.v5.2.3.x86_64-unknown-freebsd.tar.gz"
 [[Giflib]]
 arch = "x86_64"
-git-tree-sha1 = "06da6fda72ac194a97c1c9b9d5b650338e3cbd74"
+git-tree-sha1 = "380cf74f58dcce7cabe36f1f41cf8053972fd0b0"
 os = "windows"
 
     [[Giflib.download]]
-    sha256 = "c1c2703d4772b5790fa4e63ce82cec7f091eb53830d795172146ddc651b1f2f2"
-    url = "https://github.com/JuliaBinaryWrappers/Giflib_jll.jl/releases/download/Giflib-v5.2.2+1/Giflib.v5.2.2.x86_64-w64-mingw32.tar.gz"
+    sha256 = "b3876e4a6955a1eafc3ca773f813df9a94620aebabf6cab11e6c039e7603bceb"
+    url = "https://github.com/JuliaBinaryWrappers/Giflib_jll.jl/releases/download/Giflib-v5.2.3+0/Giflib.v5.2.3.x86_64-w64-mingw32.tar.gz"
